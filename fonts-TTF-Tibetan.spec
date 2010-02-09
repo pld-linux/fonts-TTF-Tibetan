@@ -1,5 +1,5 @@
 Summary:	Free TrueType fonts for Tibetan script
-Summary(pl.UTF-8):	Wolnodostępny font TrueType dla pisma tybetaskiego
+Summary(pl.UTF-8):	Wolnodostępny font TrueType dla pisma tybetańskiego
 Name:		fonts-TTF-Tibetan
 Version:	1.901b
 Release:	1
